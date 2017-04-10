@@ -7,7 +7,7 @@ public class BigClass {
 	}
 	
 	
-	public void complainAboutMyFuckingLife() {
+/*	public void complainAboutMyFuckingLife() {
 		System.out.println("It has been years I haven't got a girlfriend");
 	}
 	
@@ -53,5 +53,5 @@ public class BigClass {
 	public void NoMoreComplaining () {
 		System.out.print("Too much girlfriends, can't complain");
 		
-	}
+	}*/
 }
