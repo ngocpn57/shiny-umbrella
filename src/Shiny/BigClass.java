@@ -13,6 +13,10 @@ public class BigClass {
 	
 	public void MayBeComplain () {
 		System.out.print("Too much girlfriends and boyfriends, too complicated");
+	}
+	
+	public void NoMoreComplaining () {
+		System.out.print("Too much girlfriends, can't complain");
 		
 	}
 }
