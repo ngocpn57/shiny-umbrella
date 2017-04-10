@@ -11,8 +11,8 @@ public class BigClass {
 		System.out.println("It has been years I haven't got a girlfriend");
 	}
 	
-	public void NoMoreComplaining () {
-		System.out.print("Too much girl friends, can't complain");
+	public void MayBeComplain () {
+		System.out.print("Too much girlfriends and boyfriends, too complicated");
 		
 	}
 }
