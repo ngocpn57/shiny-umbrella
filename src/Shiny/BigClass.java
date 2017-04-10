@@ -6,4 +6,9 @@ public class BigClass {
 		System.out.println("Hello World");
 	}
 	
+	
+	public void complainAboutMyFuckingLife() {
+		System.out.println("It has been years I haven't got a girlfriend");
+	}
+	
 }
