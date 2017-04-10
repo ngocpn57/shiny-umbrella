@@ -6,4 +6,10 @@ public class BigClass {
 		System.out.println("Hello World");
 	}
 	
+	
+	public void NoMoreComplaining ()
+	{
+		System.out.print("Too much girl friends, can't complain");
+		
+	}
 }
