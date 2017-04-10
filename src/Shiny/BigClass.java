@@ -12,7 +12,7 @@ public class BigClass {
 	}
 	
 	public void NoMoreComplaining () {
-		System.out.print("Too much girl friends, can't complain");
+		System.out.print("Too much girlfriends, can't complain");
 		
 	}
 }
